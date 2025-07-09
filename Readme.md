@@ -30,7 +30,7 @@ movie_recommender/
 ├── ml-100k/             # Dataset folder (MovieLens 100K)
 │   ├── u.data
 │   └── u.item
-└── README.md
+└── Readme.md
 ```
 
 ---
@@ -65,5 +65,4 @@ movie_recommender/
 
 * [MovieLens Dataset - GroupLens](https://grouplens.org/datasets/movielens/)
 * [Streamlit Docs](https://docs.streamlit.io/)
-"# Movie-Recommendation-System" 
-"# Movie-Recommendation-System" 
+# Movie-Recommendation-System
