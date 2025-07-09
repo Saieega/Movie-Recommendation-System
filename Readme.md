@@ -35,15 +35,6 @@ movie_recommender/
 
 ---
 
-## 📷 Screenshots
-
-```
-![Homepage](Screenshots/Homepage.png)
-![Recommendations](Screenshots/Recommendations.png)
-```
-
----
-
 ## 📌 How It Works
 
 1. Each movie is represented as a **binary genre vector**
